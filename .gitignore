@@ -16,7 +16,7 @@ migrate_working_dir/
 *.iws
 .idea/
 
-# VS Code settings (descomente se não quiser versionar)
+# VS Code settings 
 #.vscode/
 
 # Flutter/Dart/Pub related
