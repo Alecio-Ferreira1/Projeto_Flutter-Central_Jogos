@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "488731839743",
+    "project_id": "central-jogos-8f95c",
+    "storage_bucket": "central-jogos-8f95c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488731839743:android:bd75159d3e45c2f9d310ca",
+        "android_client_info": {
+          "package_name": "com.example.central_jogos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488731839743-ilfrdbonjam5vsv5jsiu10mgi9bspbas.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.central_jogos",
+            "certificate_hash": "333c088229b59a8d47a2f6190b6ee42d71401d95"
+          }
+        },
+        {
+          "client_id": "488731839743-0otoofhm9p2d0sj5pat84pas19q16bnr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTw_QrTOvbIfDrC4wFnyak_RQ6xSMUnpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488731839743-0otoofhm9p2d0sj5pat84pas19q16bnr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
